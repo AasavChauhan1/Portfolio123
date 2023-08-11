@@ -1,8 +1,8 @@
-<h1 align="center"> ⚡️ DevFolio ⚡️</h1>
+<h1 align="center"> ⚡️ ArctiX Portfolio Templates ⚡️</h1>
 
 [![Github](https://img.shields.io/github/license/anilseervi/DevFolio?color=%2312c2e9&logo=github&style=for-the-badge)](https://github.com/AnilSeervi/DevFolio/blob/master/README.md) ![Github Stars](https://img.shields.io/github/stars/anilseervi/DevFolio?color=%23c471ed&style=for-the-badge) ![Github forks](https://img.shields.io/github/forks/anilseervi/DevFolio?color=%23f64f59&style=for-the-badge) ![GitHub deployments](https://img.shields.io/github/deployments/anilseervi/DevFolio/github-pages?label=Deploy&logo=github&style=for-the-badge)
 
-## A Modern Portfolio Template for Developers!
+## A Modern Portfolio Template for Developers and Freelancers!
 
 <h2 align="center">
   <img src="assets/devfolio.gif" alt="Devfolio" />
@@ -18,9 +18,7 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡ Fast and SEO Optimized
 
-To view a demo example, **[Click Here](https://devfolio.js.org)**\
-To view a live example, **[Click Here](https://anilseervi.github.io/Portfolio/)**\
-To view live example repo, **[Click Here](https://github.com/AnilSeervi/Portfolio/)**
+To view a demo example, **[[Click Here](https://devfolio.js.org)](https://aasavchauhan1.github.io/Portfolio123/)**\
 
 ## Getting Started 🚀
 
